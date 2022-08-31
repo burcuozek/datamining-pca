@@ -108,7 +108,8 @@ factor.plot(pc_2)
 
 
 ################################################################################################
-# Harman Data
+# Harman 23 Data
+#A correlation matrix of eight physical measurements on 305 girls between ages seven and seventeen.
 ################################################################################################
 "Harman23.cor" <-
   structure(list(cov = structure(c(1, 0.846, 0.805, 0.859, 0.473, 
@@ -150,7 +151,8 @@ fa.diagram(fa_promax)
 
 
 ################################################################################################
-# Harman Data
+# Harman 74 Data
+# A correlation matrix of 24 psychological tests given to 145 seventh and eight-grade children in a Chicago suburb by Holzinger and Swineford.
 ################################################################################################
 
 
