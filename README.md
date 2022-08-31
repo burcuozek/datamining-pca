@@ -13,6 +13,7 @@ The following dataset is used:
 - Glass Identification Data Set (https://archive.ics.uci.edu/ml/datasets/glass+identification)
 - Physical Measurements on Children Between Ages Seven and Seventeen (Harman 23 Data Set) (https://rdrr.io/r/datasets/Harman23.cor.html)
 - Psychological Tests Given to Seventh and Eight-grade Children (Harman 75 Data Set) (https://rdrr.io/r/datasets/Harman74.cor.html)
+- Vertebral Data Set - Biomedical (http://archive.ics.uci.edu/ml/datasets/vertebral+column)
 
 
 Author: Burcu Ozek
